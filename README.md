@@ -7,3 +7,5 @@ to find the number of total seats available.
 
 Sends an email notification if availability is greater than 0 using smtplib and EmailMessage 
 libraries.
+
+Checks page every 5 minutes.
