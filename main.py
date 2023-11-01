@@ -9,7 +9,7 @@ import time
 def email_alert(subject, body, to):
     # BURNER ACCOUNT AND PASSWORD
     user = 'burnerr1729@gmail.com'
-    password = 'ecgchiomnyxlrgfr'
+    password = '##'
 
     msg = EmailMessage()
     msg.set_content(body)
