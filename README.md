@@ -9,3 +9,5 @@ Sends an email notification if availability is greater than 0 using smtplib and 
 libraries.
 
 Checks page every 5 minutes.
+
+Currently set to send an email to my personal email address from a burner account I created. Password hidden for burner account.
